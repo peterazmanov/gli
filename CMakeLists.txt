@@ -78,7 +78,7 @@ include_directories(${CMAKE_CURRENT_SOURCE_DIR}/external/${GLM_DIRECTORY})
 # Add subdirectory
 
 add_subdirectory(gli)
-add_subdirectory(test)
+#add_subdirectory(test)
 #add_subdirectory(doc)
 
 ################################
